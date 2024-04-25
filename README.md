@@ -1,6 +1,5 @@
 This is a basic HTML-based web-app calculator to keep a running total of weighed goods.
-It was made for a specific packaging free business, and adapted from code found 
-at https://github.com/lexyd/simple-weight-calculator/blob/master/index.php
+It was made for a specific packaging free business, and adapted from code found  at https://html.form.guide/calculation-forms/simple-html-calculation-form/
 
 My main changes were in UX, with some updates to the JavaScript. This included optimising the calculations, making it adaptable to different items, styling the running totals so that they are mobile friendly.
 
