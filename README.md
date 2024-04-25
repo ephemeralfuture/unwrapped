@@ -10,6 +10,6 @@ The webpage can be used locally or online, and the entire HTML, CSS and JavaScri
 
 My main changes to the simple form linked aboce were in UX, with some updates to the JavaScript. This included optimising the calculations, making it adaptable to different items, styling the running totals so that they are mobile friendly.
 
-I plan to automate more of this code, including sending receipts to keep stock totals and using arrays to better control the calculations.
+I plan to automate more of this code, including sending receipts to keep stock totals and using arrays to better control the calculations. I'd also like to load from a database so the prices and items could be easier edited, and to automate the totals calculation. All minor things, but worthwhile eventually.
 
 For now, the current version is free for anyone to use, download, update or adapt.
